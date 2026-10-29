@@ -31,6 +31,9 @@ header{
   padding: 10px;
   display: flex;
   justify-content: flex-end;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 nav#menu ul{
